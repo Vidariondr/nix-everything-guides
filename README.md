@@ -2,7 +2,7 @@
 ## What is this repo?
 This repository is my attempt at making guides that are easy to understand on:
 - Nix,
-- NixOS,
+- [NixOS](nixos/README.md),
 - NixPkgs.
 
 It's mostly aimed at users new to the Nix ecosystem. If you have any issues (with the documentation or while using Nix/NixOS/NixPkgs), requests, or suggestions please make an issue. Each solution to an issue will be added to the documentation.
