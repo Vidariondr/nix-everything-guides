@@ -42,3 +42,4 @@ least worth a try.
 # Chapters
 
 - [Installation](installation/README.md)
+- [Configuration](configuration/README.md)
